@@ -1,0 +1,1 @@
+# malbox-plugin-example
